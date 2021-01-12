@@ -1,0 +1,8 @@
+﻿Run the project
+Vidly database will be created
+run the "Script Data" to seed the data
+
+(or: Enable-Migrations -ContextTypeName Lecture6Vidly.Models.VidlyContext
+ in the Up method SQL("INSERT .....")   )
+-------------------------
+then continue on the project afterwards
